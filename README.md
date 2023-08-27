@@ -77,4 +77,4 @@ Lastly I learned how to put shadows to an element. Like I added a simple shadow 
 
 ## Author
 
-- Website - [Zahidur Rahman](https://github.com/ZahidurRahman8759)
+- Frontend Mentor - [@ZahidurRahman8759](https://www.frontendmentor.io/profile/ZahidurRahman8759)
